@@ -1,4 +1,4 @@
-## MODELO ATÔMICO, NÍVEIS DE ENERGIA E DISTRIBUIÇÃO ELETRÔNICA
+# MODELO ATÔMICO, NÍVEIS DE ENERGIA E DISTRIBUIÇÃO ELETRÔNICA
 
 
 Seguindo a pesquisa de Rutherford sobre o modelo atômico Bohr ampliou os conceitos do mesmo modelo que é vigente até hoje. 
