@@ -1,4 +1,4 @@
-### MODELO ATÔMICO, NÍVEIS DE ENERGIA E DISTRIBUIÇÃO ELETRÔNICA
+## MODELO ATÔMICO, NÍVEIS DE ENERGIA E DISTRIBUIÇÃO ELETRÔNICA
 
 
 Seguindo a pesquisa de Rutherford sobre o modelo atômico Bohr ampliou os conceitos do mesmo modelo que é vigente até hoje. 
@@ -9,7 +9,7 @@ Cada metal irá irradiar uma cor diferente, pois cada um deles apresenta um núm
 
 Quanto maior o raio atômico maior o número de níveis de energia.
 
-#### Lembrando que a matéria **NÃO POSSUI COR!!**
+### Lembrando que a matéria **NÃO POSSUI COR!!**
 
 O que determina a emissão da cor visível é o comprimento de onda que percorre a distância do raio atômico de cada elemento, como possuem tamanhos diferentes eles irão apresentar cores diferentes e particulares.
 
@@ -41,7 +41,7 @@ No momento em que não se tem mais energia sendo aplicada nesse elétron, ele te
 
 A energia absorvida é emitida na mesma proporção, se o elétron recebe 1 quantum de energia ele irá liberar 1 **fóton** de energia quando volta ao seu estado fundamental.
 
-#### É a emissão do fóton que permite a observação da cor!!
+### É a emissão do fóton que permite a observação da cor!!
 
 Como já foi mencionado a variação da cor dependerá de cada elemento, reforçando que nem todos os fótons são visíveis.
 
